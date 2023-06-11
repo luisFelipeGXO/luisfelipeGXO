@@ -1,5 +1,5 @@
 ### Hey there, I am Luís Felipe! 👋
-[![Blog](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://sujeitoprogramador.com/)](portfoliolf.vercel.app/)
+[![Blog](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://portfoliolf.vercel.app/)](portfoliolf.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisfelipegxo)
 
 ![Luís Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfelipegxo&show_icons=true&theme=radical)
